@@ -1,0 +1,29 @@
+body {
+    background-color: #f8f9fa; /* Light background color */
+}
+
+.container {
+    margin-top: 50px; /* Space from the top */
+    padding: 20px; /* Padding around the container */
+    background-color: #ffffff; /* White background for the form */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+h2 {
+    text-align: center; /* Center the heading */
+    margin-bottom: 30px; /* Space below the heading */
+}
+
+.form-group {
+    margin-bottom: 20px; /* Space between form groups */
+}
+
+.btn {
+    width: 100%; /* Full-width button */
+}
+
+.invalid-feedback {
+    font-size: 0.875em; /* Slightly smaller font for feedback */
+    color: #dc3545; /* Bootstrap danger color */
+}
